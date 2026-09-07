@@ -27,6 +27,7 @@ Transforme uma lista de produtos em grade responsiva. Use Flexbox, flex-wrap e u
 
 ## Referências técnicas
 
-- [Fonte principal](https://www.w3.org/TR/css-flexbox-1/; https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout)
+- [Fonte 1](https://www.w3.org/TR/css-flexbox-1/)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout)
 
 [Voltar ao índice da disciplina](../README.md)

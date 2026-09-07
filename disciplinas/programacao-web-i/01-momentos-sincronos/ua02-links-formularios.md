@@ -27,6 +27,7 @@ Monte um formulário de inscrição para uma oficina. Inclua nome, e-mail, modal
 
 ## Referências técnicas
 
-- [Fonte principal](https://html.spec.whatwg.org/multipage/forms.html; https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Forms)
+- [Fonte 1](https://html.spec.whatwg.org/multipage/forms.html)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Forms)
 
 [Voltar ao índice da disciplina](../README.md)

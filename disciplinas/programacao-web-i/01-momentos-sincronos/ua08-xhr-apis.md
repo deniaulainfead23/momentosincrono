@@ -27,6 +27,7 @@ Consuma uma API pública de dados em JSON, mostre carregamento, sucesso e erro e
 
 ## Referências técnicas
 
-- [Fonte principal](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest; https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
+- [Fonte 1](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 
 [Voltar ao índice da disciplina](../README.md)

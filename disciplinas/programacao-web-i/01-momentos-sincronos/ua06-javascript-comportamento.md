@@ -27,6 +27,7 @@ Implemente um simulador de orçamento: o usuário informa quantidade e valor uni
 
 ## Referências técnicas
 
-- [Fonte principal](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript; https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
+- [Fonte 1](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
 
 [Voltar ao índice da disciplina](../README.md)

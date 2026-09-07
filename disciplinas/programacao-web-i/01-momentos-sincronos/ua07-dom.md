@@ -27,6 +27,7 @@ Crie uma lista de tarefas. Um formulário adiciona itens, um botão marca a tare
 
 ## Referências técnicas
 
-- [Fonte principal](https://dom.spec.whatwg.org/; https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
+- [Fonte 1](https://dom.spec.whatwg.org/)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
 
 [Voltar ao índice da disciplina](../README.md)

@@ -27,6 +27,7 @@ Produza uma página de portfólio com header, nav, main, article, aside, figure,
 
 ## Referências técnicas
 
-- [Fonte principal](https://html.spec.whatwg.org/multipage/; https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5)
+- [Fonte 1](https://html.spec.whatwg.org/multipage/)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5)
 
 [Voltar ao índice da disciplina](../README.md)

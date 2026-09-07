@@ -27,6 +27,7 @@ Reestilize uma página de campanha comunitária com paleta de três cores, escal
 
 ## Referências técnicas
 
-- [Fonte principal](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics/Box_model; https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Fonte 1](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics/Box_model)
+- [Fonte 2](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 [Voltar ao índice da disciplina](../README.md)

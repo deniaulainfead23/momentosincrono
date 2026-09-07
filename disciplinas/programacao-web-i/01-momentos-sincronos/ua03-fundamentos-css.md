@@ -27,6 +27,7 @@ Crie um arquivo style.css para um cartão de evento. Compare um seletor de eleme
 
 ## Referências técnicas
 
-- [Fonte principal](https://www.w3.org/Style/CSS/; https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics)
+- [Fonte 1](https://www.w3.org/Style/CSS/)
+- [Fonte 2](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics)
 
 [Voltar ao índice da disciplina](../README.md)
