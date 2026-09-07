@@ -9,11 +9,11 @@ Reconhecer a função do HTML e construir documentos válidos, organizados e sem
 
 ## Síntese conceitual
 
-HTML descreve a estrutura e o significado do conteúdo; CSS cuida da apresentação e JavaScript do comportamento. Um documento começa com <!doctype html>, possui html, head e body e deve declarar o idioma com lang.
+HTML descreve a estrutura e o significado do conteúdo; CSS cuida da apresentação e JavaScript do comportamento. Um documento começa com `<!doctype html>`, possui `html`, `head` e `body` e deve declarar o idioma com `lang`.
 
 ## Aplicação prática
 
-Crie uma página de apresentação de um projeto de extensão usando header, nav, main, section, article e footer. Valide a hierarquia de títulos e explique por que cada elemento foi escolhido.
+Crie uma página de apresentação de um projeto de extensão usando `header`, `nav`, `main`, `section`, `article` e `footer`. Valide a hierarquia de títulos e explique por que cada elemento foi escolhido.
 
 ## Roteiro de verificação
 
@@ -24,6 +24,7 @@ Crie uma página de apresentação de um projeto de extensão usando header, nav
 
 ## Referências técnicas
 
-- [Fonte principal](https://html.spec.whatwg.org/multipage/; https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content)
+- [HTML Living Standard — WHATWG](https://html.spec.whatwg.org/multipage/)
+- [Estrutura de conteúdo — MDN](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content)
 
 [Voltar ao índice da disciplina](../README.md)
