@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA2 • Links e formulários](../04-imagens/ua02-links-formularios.svg)
+
 ## Objetivo
 
 Criar navegação e coletar dados de forma clara, acessível e coerente com o objetivo da página.

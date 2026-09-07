@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA4 • Componentes](../04-imagens/ua04-componentes.svg)
+
 ## Objetivo
 
 Descrever partes substituíveis de software e suas interfaces.

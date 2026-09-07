@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA7 • DOM](../04-imagens/ua07-dom.svg)
+
 ## Objetivo
 
 Selecionar nós, modificar conteúdo e atributos e responder a eventos com segurança.

@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA3 • Classes](../04-imagens/ua03-classes.svg)
+
 ## Objetivo
 
 Representar classes, atributos, operações, associações e multiplicidades.

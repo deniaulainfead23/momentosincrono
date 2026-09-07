@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA1 • Regras de negócio](../04-imagens/ua01-regras-negocio.svg)
+
 ## Objetivo
 
 Distinguir regra de negócio, requisito e decisão de implementação.

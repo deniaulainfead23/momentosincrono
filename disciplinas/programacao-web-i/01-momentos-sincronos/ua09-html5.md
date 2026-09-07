@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA9 • HTML5](../04-imagens/ua09-html5.svg)
+
 ## Objetivo
 
 Utilizar elementos semânticos, multimídia, validação nativa e recursos do HTML moderno.

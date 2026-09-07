@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA5 • CSS3 responsivo](../04-imagens/ua05-css3-layout-responsivo.svg)
+
 ## Objetivo
 
 Construir layouts responsivos utilizando media queries, Flexbox e recursos modernos do CSS.

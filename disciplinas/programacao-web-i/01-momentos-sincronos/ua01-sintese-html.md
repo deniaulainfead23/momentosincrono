@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA1 • HTML](../04-imagens/ua01-sintese-html.svg)
+
 ## Objetivo
 
 Reconhecer a função do HTML e construir documentos válidos, organizados e semanticamente significativos.

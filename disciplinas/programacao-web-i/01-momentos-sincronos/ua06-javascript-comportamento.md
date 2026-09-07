@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA6 • JavaScript](../04-imagens/ua06-javascript-comportamento.svg)
+
 ## Objetivo
 
 Adicionar comportamento, validação e feedback sem misturar indevidamente estrutura, estilo e lógica.

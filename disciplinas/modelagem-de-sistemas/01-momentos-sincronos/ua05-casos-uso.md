@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA5 • Casos de uso](../04-imagens/ua05-casos-uso.svg)
+
 ## Objetivo
 
 Identificar atores, objetivos, fronteira do sistema e relações entre casos de uso.

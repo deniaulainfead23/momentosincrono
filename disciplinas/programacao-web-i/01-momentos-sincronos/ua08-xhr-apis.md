@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA8 • XHR e APIs](../04-imagens/ua08-xhr-apis.svg)
+
 ## Objetivo
 
 Compreender requisições assíncronas, estados de resposta, JSON e tratamento de erros.

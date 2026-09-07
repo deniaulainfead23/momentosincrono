@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA3 • CSS](../04-imagens/ua03-fundamentos-css.svg)
+
 ## Objetivo
 
 Compreender regra, seletor, propriedade, valor e a cascata.

@@ -3,6 +3,9 @@
 **Disciplina:** Programação Web I  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA4 • Formatação CSS](../04-imagens/ua04-formatacao-css.svg)
+
 ## Objetivo
 
 Aplicar tipografia, cores, espaçamento, bordas e o Box Model.

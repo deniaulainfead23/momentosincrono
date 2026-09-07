@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA2 • UML](../04-imagens/ua02-uml.svg)
+
 ## Objetivo
 
 Compreender a finalidade da UML e selecionar diagramas adequados ao problema.

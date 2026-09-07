@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA7 • Sequência](../04-imagens/ua07-sequencia.svg)
+
 ## Objetivo
 
 Representar a ordem temporal das mensagens entre participantes.

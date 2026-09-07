@@ -3,6 +3,9 @@
 **Disciplina:** Modelagem de Sistemas  
 **Material autoral:** síntese didática, não reprodução de material de outra plataforma.
 
+
+![Infográfico autoral da UA6 • Atividades](../04-imagens/ua06-atividades.svg)
+
 ## Objetivo
 
 Modelar fluxo de ações, decisões, paralelismo e encerramento.
