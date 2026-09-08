@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Etapas do projeto de banco de dados</title><desc id="desc">Ciclo de requisitos, projeto conceitual, lógico, físico, implementação e validação.</desc>
+  <rect width="1600" height="900" fill="#f7fee7"/>
+  <text x="90" y="105" fill="#1a2e05" font-family="Arial,sans-serif" font-size="54" font-weight="700">UA5 • Projeto: dos requisitos à validação</text>
+  <text x="92" y="158" fill="#3f6212" font-family="Arial,sans-serif" font-size="28">Cada decisão deve voltar a uma regra ou necessidade verificável.</text>
+  <g font-family="Arial,sans-serif">
+    <path d="M180 430H1420" stroke="#a3e635" stroke-width="20" stroke-linecap="round"/>
+    <g>
+      <circle cx="190" cy="430" r="90" fill="#365314"/><text x="164" y="445" fill="white" font-size="42" font-weight="700">1</text>
+      <text x="105" y="565" fill="#1a2e05" font-size="28" font-weight="700">REQUISITOS</text><text x="100" y="605" fill="#3f6212" font-size="22">dados • regras • uso</text>
+      <circle cx="435" cy="430" r="90" fill="#4d7c0f"/><text x="408" y="445" fill="white" font-size="42" font-weight="700">2</text>
+      <text x="355" y="565" fill="#1a2e05" font-size="28" font-weight="700">CONCEITUAL</text><text x="345" y="605" fill="#3f6212" font-size="22">entidades • relações</text>
+      <circle cx="680" cy="430" r="90" fill="#65a30d"/><text x="653" y="445" fill="white" font-size="42" font-weight="700">3</text>
+      <text x="625" y="565" fill="#1a2e05" font-size="28" font-weight="700">LÓGICO</text><text x="595" y="605" fill="#3f6212" font-size="22">tabelas • chaves • 3FN</text>
+      <circle cx="925" cy="430" r="90" fill="#77a90e"/><text x="898" y="445" fill="white" font-size="42" font-weight="700">4</text>
+      <text x="875" y="565" fill="#1a2e05" font-size="28" font-weight="700">FÍSICO</text><text x="845" y="605" fill="#3f6212" font-size="22">tipos • índices • SGBD</text>
+      <circle cx="1170" cy="430" r="90" fill="#84cc16"/><text x="1143" y="445" fill="#1a2e05" font-size="42" font-weight="700">5</text>
+      <text x="1080" y="565" fill="#1a2e05" font-size="27" font-weight="700">IMPLEMENTAR</text><text x="1095" y="605" fill="#3f6212" font-size="22">DDL • carga • acesso</text>
+      <circle cx="1415" cy="430" r="90" fill="#bef264"/><text x="1388" y="445" fill="#1a2e05" font-size="42" font-weight="700">6</text>
+      <text x="1340" y="565" fill="#1a2e05" font-size="27" font-weight="700">VALIDAR</text><text x="1325" y="605" fill="#3f6212" font-size="22">testes • consultas</text>
+    </g>
+    <path d="M1415 680C1100 805 500 805 190 680" fill="none" stroke="#65a30d" stroke-width="9" stroke-dasharray="18 14"/>
+    <path d="M190 680l35-15-10 38" fill="#65a30d"/>
+    <text x="595" y="795" fill="#365314" font-size="28" font-weight="700">VALIDAR REVELA AJUSTES NOS REQUISITOS</text>
+  </g>
+</svg>
