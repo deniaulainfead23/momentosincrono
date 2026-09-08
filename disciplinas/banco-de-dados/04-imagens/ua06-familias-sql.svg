@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Famílias de comandos SQL</title><desc id="desc">SQL ao centro ligado a DDL, DML, DQL, DCL e TCL, com exemplos de comandos.</desc>
+  <rect width="1600" height="900" fill="#faf5ff"/>
+  <text x="90" y="105" fill="#3b0764" font-family="Arial,sans-serif" font-size="54" font-weight="700">UA6 • SQL organiza diferentes intenções</text>
+  <text x="92" y="158" fill="#7e22ce" font-family="Arial,sans-serif" font-size="28">Definir, alterar dados, consultar, controlar acesso e confirmar transações.</text>
+  <g font-family="Arial,sans-serif">
+    <circle cx="800" cy="440" r="145" fill="#581c87"/><text x="730" y="460" fill="white" font-size="60" font-weight="700">SQL</text>
+    <path d="M690 350L460 260M910 350L1140 260M650 470L440 510M950 470L1160 510M800 585V700" stroke="#a855f7" stroke-width="12"/>
+    <rect x="110" y="190" width="390" height="150" rx="28" fill="#7c3aed"/><text x="155" y="250" fill="white" font-size="33" font-weight="700">DDL • ESTRUTURA</text><text x="155" y="300" fill="#ede9fe" font-size="25">CREATE • ALTER • DROP</text>
+    <rect x="1100" y="190" width="390" height="150" rx="28" fill="#db2777"/><text x="1145" y="250" fill="white" font-size="33" font-weight="700">DML • DADOS</text><text x="1145" y="300" fill="#fce7f3" font-size="22">INSERT • UPDATE • DELETE</text>
+    <rect x="90" y="455" width="410" height="150" rx="28" fill="#2563eb"/><text x="135" y="515" fill="white" font-size="33" font-weight="700">DQL • CONSULTA</text><text x="135" y="565" fill="#dbeafe" font-size="25">SELECT</text>
+    <rect x="1100" y="455" width="410" height="150" rx="28" fill="#059669"/><text x="1145" y="515" fill="white" font-size="33" font-weight="700">DCL • ACESSO</text><text x="1145" y="565" fill="#d1fae5" font-size="25">GRANT • REVOKE</text>
+    <rect x="585" y="700" width="430" height="125" rx="28" fill="#ea580c"/><text x="640" y="755" fill="white" font-size="33" font-weight="700">TCL • TRANSAÇÃO</text><text x="650" y="800" fill="#ffedd5" font-size="25">COMMIT • ROLLBACK</text>
+  </g>
+</svg>
