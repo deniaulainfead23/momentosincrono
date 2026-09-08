@@ -1,4 +1,5 @@
 # Banco de Dados
+PARA PRATICAR PODEMOS USAR O https://sqliteonline.com/
 
 Materiais autorais dos Momentos Síncronos da disciplina **Banco de Dados**, organizados a partir das UAs e ampliados com práticas, códigos, imagens e referências técnicas verificáveis.
 
