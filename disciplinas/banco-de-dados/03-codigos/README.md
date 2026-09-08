@@ -1,5 +1,9 @@
-# Códigos
+# Códigos — Banco de Dados
 
-Exemplos, projetos e arquivos executáveis utilizados nos momentos síncronos e exercícios práticos.
+- [biblioteca-schema.sql](biblioteca-schema.sql): criação das tabelas e carga de dados sintéticos.
+- [biblioteca-consultas.sql](biblioteca-consultas.sql): consultas progressivas para as UAs 6 e 7.
 
-Inclua instruções de execução e dependências quando necessárias.
+Os scripts foram escritos para PostgreSQL e não contêm dados pessoais reais.
+
+[Voltar à disciplina](../README.md)
+
