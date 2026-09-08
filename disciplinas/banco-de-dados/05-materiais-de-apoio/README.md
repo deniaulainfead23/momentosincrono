@@ -1,3 +1,7 @@
-# Materiais de apoio
+# Materiais de Apoio — Banco de Dados
 
-Roteiros, estudos dirigidos, leituras e documentos complementares relacionados à disciplina.
+- [Glossário essencial](glossario-banco-de-dados.md)
+- [Checklist de projeto](checklist-projeto-banco-de-dados.md)
+
+[Voltar à disciplina](../README.md)
+
